@@ -3,12 +3,24 @@ function App() {
 
   return (
     <div>
-      <h1>Olá mundo !</h1>
+      <h1>Olá mundo ( do App ) !</h1>
       <p>
-        Loren ipsum dolor sit amet Loren ipsum dolor sit amet Loren ipsum dolor
-        sit amet
+        Loren ipsum dolor sit amet Loren ipsum dolor sit amet Loren ipsum
+        dolorLoren ipsum dolor sit amet Loren ipsum dolor sit amet Loren ipsum
+        dolorLoren ipsum dolor sit amet Loren ipsum dolor sit amet Loren ipsum
+        dolorLoren ipsum dolor sit amet Loren ipsum dolor sit amet Loren ipsum
+        dolorLoren ipsum dolor sit amet Loren ipsum dolor sit amet Loren ipsum
+        dolorLoren ipsum dolor sit amet Loren ipsum dolor sit amet Loren ipsum
+        dolorLoren ipsum dolor sit amet Loren ipsum dolor sit amet Loren ipsum
+        dolorLoren ipsum dolor sit amet Loren ipsum dolor sit amet Loren ipsum
+        dolorLoren ipsum dolor sit amet Loren ipsum dolor sit amet Loren ipsum
+        dolorLoren ipsum dolor sit amet Loren ipsum dolor sit amet Loren ipsum
+        dolorLoren ipsum dolor sit amet Loren ipsum dolor sit amet Loren ipsum
+        dolorLoren ipsum dolor sit amet Loren ipsum dolor sit amet Loren ipsum
+        dolorLoren ipsum dolor sit amet Loren ipsum dolor sit amet Loren ipsum
+        dolor sit amet
       </p>
     </div>
   );
 }
-export default App;
+export { App };

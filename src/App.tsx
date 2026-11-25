@@ -1,4 +1,4 @@
-function App() {
+export function App() {
   console.log("Oi");
 
   return (
@@ -23,4 +23,3 @@ function App() {
     </div>
   );
 }
-export { App };
